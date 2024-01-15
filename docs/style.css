@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    font-size: 1,2rem;
+    color: blueviolet;
+    background-color: aliceblue;
+}
+
+main{
+    max-width: 52rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+}
