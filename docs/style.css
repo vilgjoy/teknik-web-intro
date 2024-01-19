@@ -5,9 +5,19 @@ body {
     background-color: aliceblue;
 }
 
+img {
+    max-width: 30%;
+}
 main{
     max-width: 52rem;
     margin-left: auto;
     margin-right: auto;
     padding: 2rem;
+}
+
+.navigaton {
+    list-style: armenian;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
 }
