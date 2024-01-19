@@ -2,9 +2,6 @@
 
 Jag har valt *Github Theme*
 
-## Lektion 1, webbintro, den 12/1
-
-*Vi la till Git bash och dess kommandon för att öppna filerna vi har på datorerna
 
 ### Bash commandon
 
@@ -12,4 +9,6 @@ Jag har valt *Github Theme*
 - `cd` change directory
 - `pwd` print working directory
 - `mkdir` make directory
+- `<br>` make the text in a website go down one bar
+
 
